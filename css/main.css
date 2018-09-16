@@ -2159,13 +2159,13 @@ body {
   background-position: center 0;
   min-height: 100vh;
   margin-top: 0;
-  background-image: url("/assets/images/b&g/tatras2.png"); }
+  background-image: url("/assets/images/b&g/tatras2.jpg"); }
   @media (min-width: 468px) {
     .hero-wrap {
-      background-image: url("/assets/images/b&g/tatras2.png"); } }
+      background-image: url("/assets/images/b&g/tatras2.jpg"); } }
   @media (min-width: 960px) {
     .hero-wrap {
-      background-image: url("/assets/images/b&g/tatras2.png"); } }
+      background-image: url("/assets/images/b&g/tatras2.jpg"); } }
   .hero-wrap .bg-tint {
     position: absolute;
     width: 100%;
